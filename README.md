@@ -309,18 +309,3 @@ These are the **minimum marks to qualify GATE** (not PSU-specific), which serve 
 | **Mining (MN)** | 30.6 | 27.5 | 20.4 |
 
 ---
-
-## Key Observations
-
-| Observation | Details |
-|-------------|---------|
-| **Top Tier PSUs** (ONGC, IOCL, NTPC, NPCIL) require **GATE Scores of 650–900+** for General category |
-| **Mid Tier PSUs** (Power Grid, AAI, NLC) typically require **GATE Marks of 60–85+** or **Scores of 550–750** |
-| **Category Relaxation** | OBC/EWS generally get ~10% relaxation; SC/ST/PwD get ~30% relaxation from General cutoffs |
-| **Electronics & Electrical** are the most competitive branches with the highest cutoffs |
-| **Civil & Mechanical** have moderate-to-high cutoffs depending on the PSU |
-| **Mining & Instrumentation** generally have lower cutoffs due to fewer applicants |
-| **GATE Score vs Marks** | GATE Score (out of 1000) is normalized and valid for 3 years; GATE Marks (out of 100) are raw marks |
-
----
-
